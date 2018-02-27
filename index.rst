@@ -11,4 +11,4 @@ Welcome to MyTestDocumentation's documentation!
    :caption: Contents:
 
    feature-a
-
+   feature-b
